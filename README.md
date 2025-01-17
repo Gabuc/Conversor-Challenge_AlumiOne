@@ -3,7 +3,7 @@
 
 ### 🚀 **Conversor de Moedas** | **Challenge ONE** | **Alura + Oracle Next Education**
 
-Bem-vindo ao meu primeiro conversor de moedas! Este projeto faz parte do **Challenge ONE Back-End**, desenvolvido durante minha jornada de aprendizado no programa **Oracle Next Education (ONE)** em parceria com a **Alura**. É a minha segunda postagem no GitHub, e eu estou muito animado(a) por compartilhar essa conquista com você! 🌟
+Bem-vindo ao meu primeiro conversor de moedas! Este projeto faz parte do **Challenge ONE Back-End**, desenvolvido durante minha jornada de aprendizado no programa **Oracle Next Education (ONE)** em parceria com a **Alura**. É a minha segunda postagem no GitHub, e eu estou muito animada por compartilhar essa conquista com você! 🌟
 
 ---
 
