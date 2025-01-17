@@ -105,7 +105,7 @@ A taxa de câmbio de USD para BRL é: 5.12
 
 ### 🏆 **Minha Jornada no Challenge ONE**
 
-Esse projeto marca um passo importante na minha trajetória como desenvolvedor(a). Foi desafiador trabalhar com **APIs**, **JSON** e criar uma **interface gráfica** pela primeira vez. Com o apoio do programa **Oracle Next Education** e da plataforma **Alura**, aprendi muito e me senti inspirado(a) a continuar explorando o mundo da programação.
+Esse projeto marca um passo importante na minha trajetória como desenvolvedora. Foi desafiador trabalhar com **APIs**, **JSON** e criar uma **interface gráfica** pela primeira vez. Com o apoio do programa **Oracle Next Education** e da plataforma **Alura**, aprendi muito e me senti inspirado(a) a continuar explorando o mundo da programação.
 
 Se você também está nessa jornada, bora compartilhar conhecimento! 🚀
 
