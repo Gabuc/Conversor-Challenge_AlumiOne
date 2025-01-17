@@ -99,6 +99,7 @@ A taxa de câmbio de USD para BRL é: 5.12
 - **CurrencyConverter.java**: Classe principal para consumir a **API** e processar os dados.
 - **CurrencyConverterGUI.java**: Classe para a interface gráfica do usuário.
 - **Main.java**: Classe principal para iniciar o programa.
+- **BaseGUI.java**: Classe base abstrata para padronizar e inicializar interfaces gráficas no programa.
 
 ---
 
